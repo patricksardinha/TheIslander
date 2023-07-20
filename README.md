@@ -8,7 +8,6 @@ The Islander is a Top Down Shooter type game where the player's goal is to embod
 ## Install the game
 
 To be able to play The Islander you can go through my portfolio at the following address: https://patricksardinha.com/ and under the "Works" section, you can find the project and download the application.
-
 <br></br>
 ## Play the game
 
